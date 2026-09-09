@@ -44,6 +44,9 @@ Figure generation
 
 
 ## Data availability
+Layer 1：Raw data
+Raw datasets were obtained from public repositories.
+Download links and versions are provided.
 
-Input datasets were obtained from publicly available sources.
-Processed datasets will be archived separately.
+Layer 2：Intermediate data
+Processed datasets, intermediate model outputs and source data supporting the figures are archived in Zenodo (DOI: xxxx).
